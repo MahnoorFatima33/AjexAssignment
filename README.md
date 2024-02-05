@@ -1,7 +1,7 @@
-#Weather Application
+# Weather Application
 This simple weather application allows users to fetch weather data for a specific city using AJAX and display it on the webpage dynamically.
 
-#How to Run Locally
+# How to Run Locally
 To run the application locally, follow these steps:
 
 Clone the repository to your local machine using the following command:
